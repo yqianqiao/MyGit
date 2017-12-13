@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">TouTiao</string>
+    <string name="app_name">头条</string>
+
+    <!--View Action-->
+    <string name="network_error">网络不给力</string>
 </resources>
